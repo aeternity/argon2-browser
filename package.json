@@ -1,6 +1,6 @@
 {
-    "name": "argon2-browser",
-    "version": "1.18.0",
+    "name": "@aeternity/argon2-browser",
+    "version": "0.1.0",
     "description": "Argon2 library compiled for browser runtime",
     "main": "dist/argon2.min.js",
     "directories": {
@@ -13,14 +13,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/antelle/argon2-browser.git"
+        "url": "git+https://github.com/aeternity/argon2-browser.git"
     },
     "author": "Antelle",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/antelle/argon2-browser/issues"
+        "url": "https://github.com/aeternity/argon2-browser/issues"
     },
-    "homepage": "https://github.com/antelle/argon2-browser#readme",
+    "homepage": "https://github.com/aeternity/argon2-browser#readme",
     "devDependencies": {
         "base64-loader": "^1.0.0",
         "chai": "^4.3.4",
