@@ -1,6 +1,6 @@
 {
     "name": "@aeternity/argon2-browser",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Argon2 library compiled for browser runtime",
     "main": "dist/argon2.min.js",
     "directories": {
